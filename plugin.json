@@ -1,0 +1,30 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "anakin",
+  "version": "1.0.0",
+  "description": "Live web data for Kiro: scrape pages to markdown or JSON, search the web, run deep research, map and crawl sites, run pre-built Wire actions on hundreds of websites, monitor pages for changes and drive a cloud browser, through Anakin's hosted MCP server.",
+  "author": {
+    "name": "Anakin",
+    "email": "support@anakin.io",
+    "url": "https://anakin.io"
+  },
+  "homepage": "https://anakin.io",
+  "repository": "https://github.com/Anakin-Inc/kiro-power-anakin",
+  "license": "Apache-2.0",
+  "keywords": [
+    "scrape",
+    "web scraping",
+    "crawl",
+    "website",
+    "web page",
+    "search the web",
+    "web search",
+    "deep research",
+    "extract data",
+    "structured data",
+    "sitemap",
+    "monitor website",
+    "browser automation",
+    "anakin"
+  ]
+}
